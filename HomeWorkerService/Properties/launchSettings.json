@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "HomeWorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
